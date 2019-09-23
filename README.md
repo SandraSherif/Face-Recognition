@@ -1,2 +1,2 @@
 # Face-Recognition
-using set of images as training for a model determine for a given image the subject ID. (Using Python)
+Face recognition means that for a given image you can tell the subject id. 
